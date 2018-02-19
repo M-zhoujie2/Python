@@ -83,7 +83,7 @@ DATABASES = {
        'NAME': 'blog',  # 数据库名字
        'USER': 'postgres',  # 登录用户名
        'PASSWORD': '',
-       'HOST': 'localhost',  # 数据库IP地址
+       'HOST': '144.202.2.74',  # 数据库IP地址
        'PORT': '5432',
     }
 }
