@@ -4,3 +4,30 @@
 [2018-02-20 15:42:17 +0000] [20299] [INFO] Booting worker with pid: 20299
 [2018-02-20 15:42:17 +0000] [20300] [INFO] Booting worker with pid: 20300
 [2018-02-20 15:42:17 +0000] [20301] [INFO] Booting worker with pid: 20301
+[2018-02-20 15:46:20 +0000] [20519] [INFO] Starting gunicorn 19.7.1
+[2018-02-20 15:46:20 +0000] [20519] [INFO] Listening at: http://144.202.2.74:8000 (20519)
+[2018-02-20 15:46:20 +0000] [20519] [INFO] Using worker: gevent
+[2018-02-20 15:46:20 +0000] [20524] [INFO] Booting worker with pid: 20524
+[2018-02-20 15:46:20 +0000] [20525] [INFO] Booting worker with pid: 20525
+[2018-02-20 15:46:20 +0000] [20526] [INFO] Booting worker with pid: 20526
+[2018-02-20 18:02:03 +0000] [21940] [INFO] Booting worker with pid: 21940
+[2018-02-20 18:02:03 +0000] [21943] [INFO] Booting worker with pid: 21943
+[2018-02-20 18:02:03 +0000] [21944] [INFO] Booting worker with pid: 21944
+[2018-02-20 18:02:03 +0000] [21945] [INFO] Booting worker with pid: 21945
+[2018-02-20 18:02:03 +0000] [20519] [INFO] Handling signal: hup
+[2018-02-20 18:02:03 +0000] [20519] [INFO] Hang up: Master
+[2018-02-20 18:02:03 +0000] [20294] [INFO] Handling signal: hup
+[2018-02-20 18:02:03 +0000] [20294] [INFO] Hang up: Master
+[2018-02-20 18:02:03 +0000] [21947] [INFO] Booting worker with pid: 21947
+[2018-02-20 18:02:03 +0000] [21946] [INFO] Booting worker with pid: 21946
+[2018-02-20 18:02:04 +0000] [20294] [INFO] Listening at: http://144.202.2.74:8000
+[2018-02-20 18:02:04 +0000] [21950] [INFO] Booting worker with pid: 21950
+[2018-02-20 18:02:04 +0000] [20519] [INFO] Handling signal: term
+[2018-02-20 18:02:04 +0000] [21953] [INFO] Booting worker with pid: 21953
+[2018-02-20 18:02:04 +0000] [21952] [INFO] Booting worker with pid: 21952
+[2018-02-20 18:02:04 +0000] [21951] [INFO] Booting worker with pid: 21951
+[2018-02-20 18:02:04 +0000] [20294] [INFO] Handling signal: term
+[2018-02-20 18:02:04 +0000] [21954] [INFO] Booting worker with pid: 21954
+[2018-02-20 18:02:04 +0000] [21955] [INFO] Booting worker with pid: 21955
+[2018-02-20 18:02:34 +0000] [20519] [INFO] Shutting down: Master
+[2018-02-20 18:02:34 +0000] [20294] [INFO] Shutting down: Master
