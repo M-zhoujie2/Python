@@ -31,3 +31,182 @@
 [2018-02-20 18:02:04 +0000] [21955] [INFO] Booting worker with pid: 21955
 [2018-02-20 18:02:34 +0000] [20519] [INFO] Shutting down: Master
 [2018-02-20 18:02:34 +0000] [20294] [INFO] Shutting down: Master
+[2018-02-21 04:43:06 +0000] [29576] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 04:43:06 +0000] [29576] [INFO] Listening at: http://127.0.0.1:8000 (29576)
+[2018-02-21 04:43:06 +0000] [29576] [INFO] Using worker: gevent
+[2018-02-21 04:43:06 +0000] [29581] [INFO] Booting worker with pid: 29581
+[2018-02-21 04:43:06 +0000] [29582] [INFO] Booting worker with pid: 29582
+[2018-02-21 04:43:06 +0000] [29583] [INFO] Booting worker with pid: 29583
+[2018-02-21 04:59:24 +0000] [29979] [INFO] Booting worker with pid: 29979
+[2018-02-21 04:59:24 +0000] [29980] [INFO] Booting worker with pid: 29980
+[2018-02-21 04:59:24 +0000] [29981] [INFO] Booting worker with pid: 29981
+[2018-02-21 04:59:24 +0000] [29576] [INFO] Handling signal: hup
+[2018-02-21 04:59:24 +0000] [29576] [INFO] Hang up: Master
+[2018-02-21 04:59:24 +0000] [29984] [INFO] Booting worker with pid: 29984
+[2018-02-21 04:59:24 +0000] [29985] [INFO] Booting worker with pid: 29985
+[2018-02-21 04:59:24 +0000] [29576] [INFO] Handling signal: term
+[2018-02-21 04:59:24 +0000] [29983] [INFO] Booting worker with pid: 29983
+[2018-02-21 04:59:54 +0000] [29576] [INFO] Shutting down: Master
+[2018-02-21 05:19:34 +0000] [30467] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 05:19:34 +0000] [30467] [INFO] Listening at: http://127.0.0.1:8000 (30467)
+[2018-02-21 05:19:34 +0000] [30467] [INFO] Using worker: gevent
+[2018-02-21 05:19:34 +0000] [30472] [INFO] Booting worker with pid: 30472
+[2018-02-21 05:19:34 +0000] [30473] [INFO] Booting worker with pid: 30473
+[2018-02-21 05:19:34 +0000] [30474] [INFO] Booting worker with pid: 30474
+[2018-02-21 05:32:58 +0000] [30705] [INFO] Booting worker with pid: 30705
+[2018-02-21 05:32:58 +0000] [30706] [INFO] Booting worker with pid: 30706
+[2018-02-21 05:32:58 +0000] [30707] [INFO] Booting worker with pid: 30707
+[2018-02-21 05:32:58 +0000] [30467] [INFO] Handling signal: hup
+[2018-02-21 05:32:58 +0000] [30467] [INFO] Hang up: Master
+[2018-02-21 05:32:58 +0000] [30467] [INFO] Handling signal: term
+[2018-02-21 05:32:58 +0000] [30708] [INFO] Booting worker with pid: 30708
+[2018-02-21 05:32:58 +0000] [30709] [INFO] Booting worker with pid: 30709
+[2018-02-21 05:32:58 +0000] [30710] [INFO] Booting worker with pid: 30710
+[2018-02-21 05:33:00 +0000] [30705] [INFO] Worker exiting (pid: 30705)
+[2018-02-21 05:33:28 +0000] [30467] [INFO] Shutting down: Master
+[2018-02-21 06:45:03 +0000] [32561] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 06:45:03 +0000] [32561] [INFO] Listening at: http://127.0.0.1:8000 (32561)
+[2018-02-21 06:45:03 +0000] [32561] [INFO] Using worker: gevent
+[2018-02-21 06:45:03 +0000] [32566] [INFO] Booting worker with pid: 32566
+[2018-02-21 06:45:03 +0000] [32567] [INFO] Booting worker with pid: 32567
+[2018-02-21 06:45:04 +0000] [32568] [INFO] Booting worker with pid: 32568
+[2018-02-21 09:09:43 +0000] [2246] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 09:09:43 +0000] [2246] [INFO] Listening at: http://127.0.0.1:8000 (2246)
+[2018-02-21 09:09:43 +0000] [2246] [INFO] Using worker: gevent
+[2018-02-21 09:09:43 +0000] [2252] [INFO] Booting worker with pid: 2252
+[2018-02-21 09:09:43 +0000] [2253] [INFO] Booting worker with pid: 2253
+[2018-02-21 09:09:43 +0000] [2254] [INFO] Booting worker with pid: 2254
+[2018-02-21 09:09:43 +0000] [32567] [INFO] Parent changed, shutting down: <Worker 32567>
+[2018-02-21 09:09:43 +0000] [32567] [INFO] Worker exiting (pid: 32567)
+[2018-02-21 09:09:43 +0000] [32566] [INFO] Parent changed, shutting down: <Worker 32566>
+[2018-02-21 09:09:43 +0000] [32566] [INFO] Worker exiting (pid: 32566)
+[2018-02-21 09:09:44 +0000] [32568] [INFO] Parent changed, shutting down: <Worker 32568>
+[2018-02-21 09:09:44 +0000] [32568] [INFO] Worker exiting (pid: 32568)
+[2018-02-21 10:34:48 +0000] [4189] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 10:34:48 +0000] [4189] [INFO] Listening at: http://127.0.0.1:8000 (4189)
+[2018-02-21 10:34:48 +0000] [4189] [INFO] Using worker: gevent
+[2018-02-21 10:34:48 +0000] [4194] [INFO] Booting worker with pid: 4194
+[2018-02-21 10:34:48 +0000] [4195] [INFO] Booting worker with pid: 4195
+[2018-02-21 10:34:48 +0000] [4196] [INFO] Booting worker with pid: 4196
+[2018-02-21 10:35:33 +0000] [4189] [INFO] Handling signal: term
+[2018-02-21 10:35:34 +0000] [4195] [INFO] Worker exiting (pid: 4195)
+[2018-02-21 10:35:34 +0000] [4196] [INFO] Worker exiting (pid: 4196)
+[2018-02-21 10:35:34 +0000] [4194] [INFO] Worker exiting (pid: 4194)
+[2018-02-21 10:35:35 +0000] [4189] [INFO] Shutting down: Master
+[2018-02-21 10:35:35 +0000] [4230] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 10:35:35 +0000] [4230] [INFO] Listening at: http://127.0.0.1:8000 (4230)
+[2018-02-21 10:35:35 +0000] [4230] [INFO] Using worker: gevent
+[2018-02-21 10:35:35 +0000] [4235] [INFO] Booting worker with pid: 4235
+[2018-02-21 10:35:35 +0000] [4236] [INFO] Booting worker with pid: 4236
+[2018-02-21 10:35:35 +0000] [4237] [INFO] Booting worker with pid: 4237
+[2018-02-21 11:19:25 +0000] [1317] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 11:19:25 +0000] [1317] [INFO] Listening at: http://127.0.0.1:8000 (1317)
+[2018-02-21 11:19:25 +0000] [1317] [INFO] Using worker: gevent
+[2018-02-21 11:19:25 +0000] [1322] [INFO] Booting worker with pid: 1322
+[2018-02-21 11:19:25 +0000] [1323] [INFO] Booting worker with pid: 1323
+[2018-02-21 11:19:25 +0000] [1324] [INFO] Booting worker with pid: 1324
+[2018-02-21 11:22:58 +0000] [1317] [INFO] Handling signal: term
+[2018-02-21 11:22:59 +0000] [1323] [INFO] Worker exiting (pid: 1323)
+[2018-02-21 11:22:59 +0000] [1322] [INFO] Worker exiting (pid: 1322)
+[2018-02-21 11:22:59 +0000] [1324] [INFO] Worker exiting (pid: 1324)
+[2018-02-21 11:22:59 +0000] [1317] [INFO] Shutting down: Master
+[2018-02-21 11:22:59 +0000] [1412] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 11:22:59 +0000] [1412] [INFO] Listening at: http://127.0.0.1:8000 (1412)
+[2018-02-21 11:22:59 +0000] [1412] [INFO] Using worker: gevent
+[2018-02-21 11:22:59 +0000] [1417] [INFO] Booting worker with pid: 1417
+[2018-02-21 11:22:59 +0000] [1418] [INFO] Booting worker with pid: 1418
+[2018-02-21 11:23:00 +0000] [1419] [INFO] Booting worker with pid: 1419
+[2018-02-21 11:32:47 +0000] [1412] [INFO] Handling signal: term
+[2018-02-21 11:32:48 +0000] [1418] [INFO] Worker exiting (pid: 1418)
+[2018-02-21 11:32:48 +0000] [1419] [INFO] Worker exiting (pid: 1419)
+[2018-02-21 11:32:48 +0000] [1417] [INFO] Worker exiting (pid: 1417)
+[2018-02-21 11:32:48 +0000] [1412] [INFO] Shutting down: Master
+[2018-02-21 11:32:49 +0000] [1630] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 11:32:49 +0000] [1630] [INFO] Listening at: http://127.0.0.1:8000 (1630)
+[2018-02-21 11:32:49 +0000] [1630] [INFO] Using worker: gevent
+[2018-02-21 11:32:49 +0000] [1635] [INFO] Booting worker with pid: 1635
+[2018-02-21 11:32:49 +0000] [1636] [INFO] Booting worker with pid: 1636
+[2018-02-21 11:32:49 +0000] [1637] [INFO] Booting worker with pid: 1637
+[2018-02-21 12:59:45 +0000] [1137] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 12:59:45 +0000] [1137] [INFO] Listening at: http://127.0.0.1:8000 (1137)
+[2018-02-21 12:59:45 +0000] [1137] [INFO] Using worker: gevent
+[2018-02-21 12:59:45 +0000] [1142] [INFO] Booting worker with pid: 1142
+[2018-02-21 12:59:45 +0000] [1143] [INFO] Booting worker with pid: 1143
+[2018-02-21 12:59:45 +0000] [1144] [INFO] Booting worker with pid: 1144
+[2018-02-21 13:07:19 +0000] [1139] [INFO] Starting gunicorn 19.7.1
+[2018-02-21 13:07:19 +0000] [1139] [INFO] Listening at: http://127.0.0.1:8000 (1139)
+[2018-02-21 13:07:19 +0000] [1139] [INFO] Using worker: gevent
+[2018-02-21 13:07:19 +0000] [1144] [INFO] Booting worker with pid: 1144
+[2018-02-21 13:07:19 +0000] [1145] [INFO] Booting worker with pid: 1145
+[2018-02-21 13:07:19 +0000] [1146] [INFO] Booting worker with pid: 1146
+[2018-02-22 00:28:36 +0000] [3993] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 00:28:36 +0000] [3993] [INFO] Listening at: http://127.0.0.1:8000 (3993)
+[2018-02-22 00:28:36 +0000] [3993] [INFO] Using worker: gevent
+[2018-02-22 00:28:36 +0000] [3998] [INFO] Booting worker with pid: 3998
+[2018-02-22 00:28:36 +0000] [3999] [INFO] Booting worker with pid: 3999
+[2018-02-22 00:28:36 +0000] [4000] [INFO] Booting worker with pid: 4000
+[2018-02-22 00:28:59 +0000] [4026] [INFO] Booting worker with pid: 4026
+[2018-02-22 00:29:00 +0000] [3993] [INFO] Handling signal: term
+[2018-02-22 00:29:00 +0000] [3999] [INFO] Worker exiting (pid: 3999)
+[2018-02-22 00:29:00 +0000] [3998] [INFO] Worker exiting (pid: 3998)
+[2018-02-22 00:29:00 +0000] [4000] [INFO] Worker exiting (pid: 4000)
+[2018-02-22 00:29:00 +0000] [3993] [INFO] Shutting down: Master
+[2018-02-22 00:29:03 +0000] [4085] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 00:29:03 +0000] [4085] [INFO] Listening at: http://127.0.0.1:8000 (4085)
+[2018-02-22 00:29:03 +0000] [4085] [INFO] Using worker: gevent
+[2018-02-22 00:29:03 +0000] [4090] [INFO] Booting worker with pid: 4090
+[2018-02-22 00:29:03 +0000] [4091] [INFO] Booting worker with pid: 4091
+[2018-02-22 00:29:03 +0000] [4092] [INFO] Booting worker with pid: 4092
+[2018-02-22 00:30:42 +0000] [4085] [INFO] Handling signal: term
+[2018-02-22 00:30:42 +0000] [4091] [INFO] Worker exiting (pid: 4091)
+[2018-02-22 00:30:42 +0000] [4090] [INFO] Worker exiting (pid: 4090)
+[2018-02-22 00:30:42 +0000] [4092] [INFO] Worker exiting (pid: 4092)
+[2018-02-22 00:30:42 +0000] [4085] [INFO] Shutting down: Master
+[2018-02-22 00:30:44 +0000] [4151] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 00:30:44 +0000] [4151] [INFO] Listening at: http://127.0.0.1:8000 (4151)
+[2018-02-22 00:30:44 +0000] [4151] [INFO] Using worker: gevent
+[2018-02-22 00:30:44 +0000] [4156] [INFO] Booting worker with pid: 4156
+[2018-02-22 00:30:44 +0000] [4157] [INFO] Booting worker with pid: 4157
+[2018-02-22 00:30:44 +0000] [4158] [INFO] Booting worker with pid: 4158
+[2018-02-22 02:08:49 +0000] [644] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 02:08:49 +0000] [644] [INFO] Listening at: http://127.0.0.1:8000 (644)
+[2018-02-22 02:08:49 +0000] [644] [INFO] Using worker: gevent
+[2018-02-22 02:08:49 +0000] [649] [INFO] Booting worker with pid: 649
+[2018-02-22 02:08:49 +0000] [650] [INFO] Booting worker with pid: 650
+[2018-02-22 02:08:49 +0000] [651] [INFO] Booting worker with pid: 651
+[2018-02-22 02:14:57 +0000] [643] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 02:14:57 +0000] [643] [INFO] Listening at: http://127.0.0.1:8000 (643)
+[2018-02-22 02:14:57 +0000] [643] [INFO] Using worker: gevent
+[2018-02-22 02:14:57 +0000] [648] [INFO] Booting worker with pid: 648
+[2018-02-22 02:14:57 +0000] [649] [INFO] Booting worker with pid: 649
+[2018-02-22 02:14:57 +0000] [650] [INFO] Booting worker with pid: 650
+[2018-02-22 02:28:02 +0000] [641] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 02:28:02 +0000] [641] [INFO] Listening at: http://127.0.0.1:8000 (641)
+[2018-02-22 02:28:02 +0000] [641] [INFO] Using worker: gevent
+[2018-02-22 02:28:02 +0000] [646] [INFO] Booting worker with pid: 646
+[2018-02-22 02:28:02 +0000] [647] [INFO] Booting worker with pid: 647
+[2018-02-22 02:28:02 +0000] [648] [INFO] Booting worker with pid: 648
+[2018-02-22 02:54:12 +0000] [640] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 02:54:12 +0000] [640] [INFO] Listening at: http://127.0.0.1:8000 (640)
+[2018-02-22 02:54:12 +0000] [640] [INFO] Using worker: gevent
+[2018-02-22 02:54:12 +0000] [645] [INFO] Booting worker with pid: 645
+[2018-02-22 02:54:12 +0000] [646] [INFO] Booting worker with pid: 646
+[2018-02-22 02:54:12 +0000] [647] [INFO] Booting worker with pid: 647
+[2018-02-22 03:22:44 +0000] [641] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 03:22:44 +0000] [641] [INFO] Listening at: http://127.0.0.1:8000 (641)
+[2018-02-22 03:22:44 +0000] [641] [INFO] Using worker: gevent
+[2018-02-22 03:22:44 +0000] [646] [INFO] Booting worker with pid: 646
+[2018-02-22 03:22:44 +0000] [647] [INFO] Booting worker with pid: 647
+[2018-02-22 03:22:44 +0000] [648] [INFO] Booting worker with pid: 648
+[2018-02-22 05:12:44 +0000] [640] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 05:12:44 +0000] [640] [INFO] Listening at: http://127.0.0.1:8000 (640)
+[2018-02-22 05:12:44 +0000] [640] [INFO] Using worker: gevent
+[2018-02-22 05:12:44 +0000] [645] [INFO] Booting worker with pid: 645
+[2018-02-22 05:12:44 +0000] [646] [INFO] Booting worker with pid: 646
+[2018-02-22 05:12:44 +0000] [647] [INFO] Booting worker with pid: 647
+[2018-02-22 06:50:16 +0000] [640] [INFO] Starting gunicorn 19.7.1
+[2018-02-22 06:50:16 +0000] [640] [INFO] Listening at: http://127.0.0.1:8000 (640)
+[2018-02-22 06:50:16 +0000] [640] [INFO] Using worker: gevent
+[2018-02-22 06:50:16 +0000] [645] [INFO] Booting worker with pid: 645
+[2018-02-22 06:50:16 +0000] [646] [INFO] Booting worker with pid: 646
+[2018-02-22 06:50:16 +0000] [647] [INFO] Booting worker with pid: 647
